@@ -1,4 +1,8 @@
 This Assignment includes the EDA of FIFA 2020 data. 
+FIFA 2020- This inclues the list of players that were playing for the year 2019-2020 and includes the rankings /overall ratings given to them considering different features. 
+The best player was Leo Messi second Best was C Ronaldo and the comparison between them is what we are going to look in detail.
+
+The datatset has-
 100+ attributes
 URL of the scraped player
 Player positions, with the role in the club and in the national team
