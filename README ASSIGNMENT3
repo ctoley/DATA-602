@@ -1,0 +1,6 @@
+This Assignment includes the EDA of FIFA 2020 data. 
+100+ attributes
+URL of the scraped player
+Player positions, with the role in the club and in the national team
+Player attributes with statistics as Attacking, Skills, Defense, Mentality, GK Skills, etc.
+Player personal data like Nationality, Club, DateOfBirth, Wage, Salary, etc.
