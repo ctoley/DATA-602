@@ -1,13 +1,20 @@
 # Dataset Description 
 
 The dataset hast whether or not the lady has diabetes.  There are various constraints that are taken into consideration like
-•	Pregnancies (number of times pregnant),
+•	Pregnancies (number of times pregnant)
+
 •	Oral glucose tolerance test 
-•	Blood Pressure (Diastolic Blood Pressure in mmHg),
-•	Skin Thickness (Triceps skin fold thickness in mm),
-•	Insulin (2 h serum insulin in mu U/ml),
-•	BMI (Body Mass Index in kg/m2),
-•	Age (years),
+
+•	Blood Pressure (Diastolic Blood Pressure in mmHg)
+
+•	Skin Thickness (Triceps skin fold thickness in mm)
+
+•	Insulin (2 h serum insulin in mu U/ml)
+
+•	BMI (Body Mass Index in kg/m2)
+
+•	Age (years)
+
 •	Pedigree Diabetes Function
 
 
