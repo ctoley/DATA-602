@@ -24,5 +24,5 @@ Fit a model using AdaBoost. Does this improve performance?
 • Ensemble Learning
 
 ## Conclusion
-SSM performed better as compared to other model but it took a lot of time to run and hence Logistic regression would be preferred.
+SVM performed better as compared to other models but it took a lot of time to run and hence Logistic regression would be preferred.
 ADABoost gave almost 9% more accuracy.
