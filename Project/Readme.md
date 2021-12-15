@@ -2,9 +2,13 @@
 
 ## Dataset Description-
 Fire Incidents includes a summary of each (non-medical) incident to which the SF Fire Department responded. Each incident record includes the call number, incident number, address, number and type of each unit responding, call type (as determined by dispatch), prime situation (field observation), actions taken, and property loss.
+
 Dataset link- https://data.sfgov.org/Public-Safety/Fire-Incidents/wr8u-xric
+
 The Dataset has :
+
 64 Columns
+
 575k Rows
 
 
@@ -48,4 +52,14 @@ To predict if there will be any fatalties in the fire incidents or not.
 ### - ADA Boost 
 
 
+## Results-
+Linear Regression Accuracy was 99%. Rest all the algorithms gave 100% accuracy. This was due to the data in the in the training set was all zeros. If taken into consideration only 47 rows were the rows with nulls. 
 
+## Conclusion-
+
+There may or may not involve overfitting but due to the complexity of the data and the way the data is I think getting a 100% accuracy was not a problem. It is just the way data is. I will further take new dataset of similar attributes and try the same.
+
+## Reference-
+1) Lecture notes
+
+2) Stack Overflow..cited wherever used
