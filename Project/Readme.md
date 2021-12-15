@@ -14,13 +14,38 @@ As many as 90% of the Fires in the States are caused by people. Fire Incidents a
 ## Problem Statement-
 To predict if there will be any fatalties in the fire incidents or not.
 
-## Exploratory Data Analysis-
+## Exploratory Data Analysis And Data Cleaning-
 - Dealing with NULL Values-
     
-    -- Almost 5 lakh null values.
+    - Almost 5 lakh null values.
     
-    -- Few unnecessary values.
+    - Few unnecessary values.
 
+- Filled the missing values with Unknown for Categorical Variables.
+
+- Filled the missing values with mean or median for numerical values.
+
+- Carried out Data Vizualization.
+
+- Dropeed few columns which were not important.
+
+- As the dataset was huge and the duplicate rows were just around 7-10, I dropped them.
+
+
+![image](https://user-images.githubusercontent.com/89624724/146119038-cf5b0c45-2b8e-41aa-812d-e1c518874c4f.png)
+
+
+## Models-
+
+### - Linear Regression
+
+### - Logistic Regression
+
+### - Decision Tree
+
+### - Random Forest 
+
+### - ADA Boost 
 
 
 
