@@ -15,8 +15,10 @@ As many as 90% of the Fires in the States are caused by people. Fire Incidents a
 To predict if there will be any fatalties in the fire incidents or not.
 
 ## Exploratory Data Analysis-
--Dealing with NULL Values-
+- Dealing with NULL Values-
+    
     -- Almost 5 lakh null values.
+    
     -- Few unnecessary values.
 
 
